@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
-    # tags:
+    # tags: 
     #   - '*.*'
 
 # Be sure to update the lines below to match YOUR GitHub account name / your container image name.
